@@ -109,9 +109,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\YaelQuotesCS\YaelQuotesCS.csproj">
+    <ProjectReference Include="..\YaelQuotesCS\YaelQuotesCSz.csproj">
       <Project>{6AE96CFF-594A-4A1B-BC1B-35772A41781A}</Project>
-      <Name>YaelQuotesCS</Name>
+      <Name>YaelQuotesCSz</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
