@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaelQuotesCSz", "YaelQuotesCS\YaelQuotesCSz.csproj", "{6AE96CFF-594A-4A1B-BC1B-35772A41781A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaelQuotesCS", "YaelQuotesCS\YaelQuotesCS.csproj", "{6AE96CFF-594A-4A1B-BC1B-35772A41781A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaelQuotesCS.Testsz", "YaelQuotesCS.Tests\YaelQuotesCS.Testsz.csproj", "{1D5EB2C3-4FF2-42B3-8F3C-BC7532CC6AB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YaelQuotesCS.Tests", "YaelQuotesCS.Tests\YaelQuotesCS.Tests.csproj", "{1D5EB2C3-4FF2-42B3-8F3C-BC7532CC6AB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
