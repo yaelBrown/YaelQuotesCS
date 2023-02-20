@@ -11,10 +11,11 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace YaelQuotesCS.Controllers
 {
-    [Produces("application/json")]
     public class QuotesController : ApiController
     {
         private Random rnd = new Random();
+        
+        [Produces("application/json")]
         public string Get()
         {
             try
